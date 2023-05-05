@@ -1,4 +1,4 @@
-# Chat App with ReactJS and Socket IO
+# Real Chat App with ReactJS and Socket IO
 
 This is a real-time chat application built with ReactJS and Socket IO. The app allows users to join different chat rooms with unique usernames and send messages in real time. This app uses web sockets to send and receive data in real time, ensuring a seamless chat experience for all users.
 
